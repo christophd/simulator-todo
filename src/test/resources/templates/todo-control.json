@@ -1,0 +1,5 @@
+{
+  "id": "@isNumber()@",
+  "task": "@notEmpty()@",
+  "completed": "@matches(0|1)@"
+}
